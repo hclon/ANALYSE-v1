@@ -122,6 +122,9 @@ Developed by
         Javier Santofimia Ruiz - Universidad Carlos III de Madrid (by implementing his Final Year Project)
         </li>
         <li>
+        Javier  Ignacio  Orcoyen  Chaves - Universidad Carlos III de Madrid (by implementing his Final Year Project)
+        </li>
+        <li>
         Carlos Delgado Kloos - Universidad Carlos III de Madrid
         </li>
         </ul>
